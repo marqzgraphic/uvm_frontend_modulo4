@@ -1,0 +1,476 @@
+{
+  "data": {
+    "objects": [
+      {
+        "names": {
+          "common": "American Samoa"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788724017
+        }
+      },
+      {
+        "names": {
+          "common": "Bahamas"
+        },
+        "currencies": [
+          {
+            "code": "BSD",
+            "name": "Bahamian dollar",
+            "symbol": "$"
+          },
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[1].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788557516
+        }
+      },
+      {
+        "names": {
+          "common": "British Indian Ocean Territory"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788724018
+        }
+      },
+      {
+        "names": {
+          "common": "British Virgin Islands"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1791200068
+        }
+      },
+      {
+        "names": {
+          "common": "Cambodia"
+        },
+        "currencies": [
+          {
+            "code": "KHR",
+            "name": "Cambodian riel",
+            "symbol": "៛"
+          },
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[1].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1794510705
+        }
+      },
+      {
+        "names": {
+          "common": "Caribbean Netherlands"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788724017
+        }
+      },
+      {
+        "names": {
+          "common": "Ecuador"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1794814615
+        }
+      },
+      {
+        "names": {
+          "common": "El Salvador"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788557517
+        }
+      },
+      {
+        "names": {
+          "common": "Guam"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788724018
+        }
+      },
+      {
+        "names": {
+          "common": "Marshall Islands"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1789975616
+        }
+      },
+      {
+        "names": {
+          "common": "Micronesia"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1791021650
+        }
+      },
+      {
+        "names": {
+          "common": "Northern Mariana Islands"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788724018
+        }
+      },
+      {
+        "names": {
+          "common": "Palau"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788557520
+        }
+      },
+      {
+        "names": {
+          "common": "Panama"
+        },
+        "currencies": [
+          {
+            "code": "PAB",
+            "name": "Panamanian balboa",
+            "symbol": "B/."
+          },
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[1].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788557520
+        }
+      },
+      {
+        "names": {
+          "common": "Puerto Rico"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788724018
+        }
+      },
+      {
+        "names": {
+          "common": "Timor-Leste"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788557521
+        }
+      },
+      {
+        "names": {
+          "common": "Turks and Caicos Islands"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1794530853
+        }
+      },
+      {
+        "names": {
+          "common": "United States"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1794510775
+        }
+      },
+      {
+        "names": {
+          "common": "United States Minor Outlying Islands"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788724019
+        }
+      },
+      {
+        "names": {
+          "common": "United States Virgin Islands"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1788724019
+        }
+      },
+      {
+        "names": {
+          "common": "Zimbabwe"
+        },
+        "currencies": [
+          {
+            "code": "USD",
+            "name": "United States dollar",
+            "symbol": "$"
+          },
+          {
+            "code": "ZWG",
+            "name": "Zimbabwe Gold",
+            "symbol": "ZiG"
+          }
+        ],
+        "_match": [
+          {
+            "path": "currencies[0].code",
+            "value": "USD"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1791073728
+        }
+      }
+    ],
+    "meta": {
+      "total": 21,
+      "count": 21,
+      "limit": 100,
+      "offset": 0,
+      "more": false,
+      "request_id": "bbf00e94-de05-46ff-b49b-1f3cac325a2a",
+      "duration": 67
+    }
+  }
+}

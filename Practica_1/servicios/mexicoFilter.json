@@ -1,0 +1,48 @@
+{
+  "data": {
+    "objects": [
+      {
+        "names": {
+          "common": "Mexico"
+        },
+        "continents": [
+          "North America"
+        ],
+        "_match": [
+          {
+            "path": "capitals[0].name",
+            "value": "Mexico City"
+          },
+          {
+            "path": "flag.description",
+            "value": "The flag of Mexico is composed of three equal vertical bands of green, white and red, with the national coat of arms centered in the white band."
+          },
+          {
+            "path": "names.common",
+            "value": "Mexico"
+          },
+          {
+            "path": "names.translations.cym.common",
+            "value": "Mexico"
+          },
+          {
+            "path": "names.translations.nld.common",
+            "value": "Mexico"
+          }
+        ],
+        "_meta": {
+          "lastUpdatedTimestamp": 1789897338
+        }
+      }
+    ],
+    "meta": {
+      "total": 1,
+      "count": 1,
+      "limit": 25,
+      "offset": 0,
+      "more": false,
+      "request_id": "e81d1d02-be92-4cd1-84b8-b9289deffac9",
+      "duration": 72
+    }
+  }
+}
